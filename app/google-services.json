@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "170427194477",
+    "firebase_url": "https://singlesignon-70785.firebaseio.com",
+    "project_id": "singlesignon-70785",
+    "storage_bucket": "singlesignon-70785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170427194477:android:d8b727e9c1e2685c",
+        "android_client_info": {
+          "package_name": "com.example.sravanreddy.googlesinglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170427194477-19q7vp0oug3pb2vbl9c6jpajmpvsfq84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sravanreddy.googlesinglesignin",
+            "certificate_hash": "a48b7b8664b9ed301faa61bccbc5c8452d3c42cd"
+          }
+        },
+        {
+          "client_id": "170427194477-te58erru1dd4qef69e4t46s6nk8juf6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEO-9zfWJfQP-CG94ADLcfo9kyauV8UD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170427194477-te58erru1dd4qef69e4t46s6nk8juf6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
